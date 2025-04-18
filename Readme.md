@@ -5,3 +5,12 @@
 ```bash
 git init
 ```
+
+## To create new branch using these commands
+
+```bash
+git branch Branchname'
+git checkouot branchname
+```
+
+
